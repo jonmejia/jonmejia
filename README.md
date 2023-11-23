@@ -2,6 +2,12 @@
 
 My name is Jonathan and I'm a software engineer who mostly works on web apps. I write mostly typescript, and I'm learning C right now just for fun. I'm very open to collaboration and I love to work on cool projects. If anything on my profile interests you please feel free to reach out to me I'm friendly and love to talk tech :)
 
+<p align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,nodejs,express,git,prisma,postgres,graphql,apollo,postman,vscode&theme=light" />
+    </a>
+</p>
+
 <!--
 **jonmejia/jonmejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
