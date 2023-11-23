@@ -4,7 +4,7 @@ My name is Jonathan and I'm a software engineer who mostly works on web apps. I 
 
 <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,nodejs,express,git,prisma,postgres,graphql,apollo,postman,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,git,prisma,postgres,graphql,apollo,postman,vscode&theme=light" />
     </a>
 </p>
 
