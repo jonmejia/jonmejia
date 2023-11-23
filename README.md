@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## My name is Jonathan and I'm a software engineer who mostly works on web apps. I'm learning C right now just for fun.
 
