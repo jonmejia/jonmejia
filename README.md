@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jonathan and I'm a software engineer who mostly works on web apps. I write mostly typescript, and I'm learning C right now just for fun. I'm very open to collaboration and I love to work on cool projects. If anything on my profile interests you please feel free to reach out to me I'm friendly and love to talk tech :)
+My name is Jonathan and I'm a software engineer who mostly works on web apps. I'm learning C right now just for fun.
 
 <p align="center">
     <a href="https://skillicons.dev">
