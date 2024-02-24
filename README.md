@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name is Jonathan and I'm a software engineer who mostly works on web apps
+### My name is Jonathan and I'm a software engineer who mostly works on web apps. I love free open-source software.
 
 
 <!--
